@@ -2,9 +2,9 @@
 SQLmap tamper scripts 
 
 # One liner SQLMap Tamper
-
+```
 --tamper=apostrophemask,apostrophenullencode,appendnullbyte,base64encode,between,bluecoat,chardoubleencode,commalesslimit,commalessmid,concat2concatws,charencode,charunicodeencode,equaltolike,escapequotes,greatest,halfversionedmorekeywords,ifnull2ifisnull,modsecurityversioned,modsecurityzeroversioned,multiplespaces,nonrecursivereplacement,percentage,overlongutf8,randomcase,randomcomments,securesphere,sp_password,space2comment,space2dash,space2hash,space2morehash,space2mssqlblank,space2mssqlhash,space2mysqlblank,space2mysqldash,space2plus,space2randomblank,symboliclogical,unionalltounion,unmagicquotes,uppercase,varnish,versionedkeywords,versionedmorekeywords,xforwardedfor
-
+```
 
 General tamper option and tamper's list
 ```
